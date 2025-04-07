@@ -1,3 +1,3 @@
-# Git-demo
-hello 
-helllo
+# this is the locla repo
+
+gGit
